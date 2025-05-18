@@ -11,7 +11,7 @@ I’m an experienced AI researcher and data scientist with a strong focus on mac
 
 I previously worked at [Alife Health](https://www.alifehealth.com/), a leading reproductive health startup, where I was managed by [Kevin Loewke, PhD](https://scholar.google.com/citations?user=D4HRo4kAAAAJ&hl=en&oi=ao) and [Michael Fanton, PhD](https://scholar.google.com/citations?user=xr5LO2MAAAAJ&hl=en). Under their leadership, I developed AI models for embryo ranking, regression models for medication outcomes, and clinical decision-support systems. My work has contributed to **FDA-regulated clinical trials** and has been presented at major conferences like [ASRM](https://www.asrm.org/), [ESHRE](https://www.eshre.eu/), and [PCRS](https://www.pcrsonline.org/).
 
-I am broadly interested in combining machine learning, causal inference, and biomedical informatics to improve healthcare outcomes and decision. My work also explores data-centric AI, model interpretability, and real-world deployment of medical AI systems.
+I am broadly interested in combining machine learning, causal inference, and biomedical informatics to improve healthcare outcomes and decision. My work also explores data-centric AI, model interpretability, and real-world deployment of medical AI systems. [Download my CV](/files/zeyu_chang_cv_250518.pdf)
 
 ---
 
